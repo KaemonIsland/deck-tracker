@@ -2,7 +2,7 @@
 
 An application that tracks the state of your MTG deck so you never have to shuffle again!
 
-# Idea
+# Concept
 
 Basically this application would keep track of your library to make things like thorough shuffling no longer required.
 The user would submit their deck on their own account while keeping their physical deck nicely in order. The app will
